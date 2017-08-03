@@ -3,5 +3,7 @@
 	$a=5;
 	$b=31;
 
-	echo $media;
+	echo "media de duas variaveis pré determinadas pelo sistema: " .$media;
+
+	
  ?>
